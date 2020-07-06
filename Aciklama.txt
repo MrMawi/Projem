@@ -3,3 +3,5 @@
 Git üzerinde yapılan değişiklikler
 
 Git Üzerinden Pcden yapılan değişikliği online alma.
+
+GitHub da değişiklik yaptım.
