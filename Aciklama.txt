@@ -1,3 +1,5 @@
-Bilge Adam Yazilim Dersleri 1. Gün
+﻿Bilge Adam Yazilim Dersleri 1. Gün
 
 Git üzerinde yapılan değişiklikler
+
+Git Üzerinden Pcden yapılan değişikliği online alma.
