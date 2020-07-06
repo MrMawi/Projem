@@ -1,1 +1,3 @@
-Bilge Adam Yazilim Dersleri 1. G�n
+Bilge Adam Yazilim Dersleri 1. Gün
+
+Git üzerinde yapılan değişiklikler
